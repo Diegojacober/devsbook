@@ -4,5 +4,23 @@
 
 
 
+<p style="color:orange;font-weight:bold;display:inline">controllers ➡</p> pasta onde ficam os controladores do sistema, onde é feito o intermédio entre os models e as views;
+
+<p style="color:green;font-weight:bold;display:inline">handlers ➡</p> pasta onde ficam os handlers, que são comunicadores com o banco de dados;
+
+<p style="color:blue;font-weight:bold;display:inline">models ➡</p> pasta onde há as classes necessarias para o projeto;
+
+<p style="color:red;font-weight:bold;display:inline">views ➡</p> posta onde ficam todas as telas do sistema;
+
+<p style="color:yellow;font-weight:bold;display:inline">Config.php ➡</p> Configurações gerais para o sistema;
+
+<p style="color:yellow;font-weight:bold;display:inline">routes.php ➡</p> Arquivo com todas as rotas do projeto
+
+
+
+Para a manipulação do banco de dados foi usado o query builder Hidraton.
+
+
+
 No projeto há dois arquivos .sql, um contêm a ideia inicial do banco de dados, e o outro contêm o banco com alterações e dados.
 
